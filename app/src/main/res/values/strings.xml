@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CyberGuard</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quote">Let\'s stop cyberbullying together.</string>
+    <string name="login">Log in</string>
+    <string name="next">Next</string>
+    <string name="createaccount">Create your account</string>
+    <string name="signup">Sign up</string>
+    <string name="policy">By signing up, you agree to the <font color='#FFC107'>Terms of Service</font> and <font color='#D83731'>Privacy Policy</font>. Others will be able to find you by email when provided.</string>
+    <string name="loginto">Log in as Parents.</string>
+    <string name="forgotPassword">Forgot password?</string>
+    <string name="haveaccountalready">Have an account already?</string>
+    <string name="logout">Log out</string>
+    <string name="add">Add Child</string>
+    <string name="username">Kid</string>
+    <string name="monitor">Monitor now</string>
+    <string name="alerts">See Activites</string>
+    <string name="handle">\@twitter_handle</string>
+
+</resources>
